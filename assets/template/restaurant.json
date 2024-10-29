@@ -1,0 +1,2902 @@
+{
+    "counters": {
+        "u_row": 52,
+        "u_column": 84,
+        "u_content_menu": 3,
+        "u_content_text": 56,
+        "u_content_image": 43,
+        "u_content_button": 22,
+        "u_content_social": 2,
+        "u_content_divider": 47,
+        "u_content_heading": 33,
+        "u_content_html": 1
+    },
+    "body": {
+        "id": "Gt1WFpk49y",
+        "rows": [
+            {
+                "id": "V_BjyXXgvd",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "VOiV3Lggog",
+                        "contents": [
+                            {
+                                "id": "HR6i_mfgRq",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "5px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_6",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_16",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_13",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "hideMobile": false,
+                    "noStackMobile": false
+                }
+            },
+            {
+                "id": "NjJgXCwzYU",
+                "cells": [
+                    1,
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "f_2kY6SynP",
+                        "contents": [
+                            {
+                                "id": "9ceVzzx83K",
+                                "type": "menu",
+                                "values": {
+                                    "containerPadding": "25px 10px 10px",
+                                    "anchor": "",
+                                    "menu": {
+                                        "items": [
+                                            {
+                                                "key": "1606923979328",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "SERVICES"
+                                            },
+                                            {
+                                                "key": "1606924033905",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "MENU"
+                                            }
+                                        ]
+                                    },
+                                    "fontFamily": {
+                                        "label": "Montserrat",
+                                        "value": "'Montserrat',sans-serif",
+                                        "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "14px",
+                                    "textColor": "#444444",
+                                    "linkColor": "#0068A5",
+                                    "align": "center",
+                                    "layout": "horizontal",
+                                    "separator": "",
+                                    "padding": "5px 15px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_menu_3",
+                                        "htmlClassNames": "u_content_menu"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_1",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    },
+                    {
+                        "id": "ykKOuo4pcI",
+                        "contents": [
+                            {
+                                "id": "eUBEYjRn90",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://cdn.templates.unlayer.com/assets/1606906849237-logo.png",
+                                        "width": 248,
+                                        "height": 56,
+                                        "maxWidth": "77%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Image",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_1",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "maxWidth": "58%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_2",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    },
+                    {
+                        "id": "vehvHvh0Vs",
+                        "contents": [
+                            {
+                                "id": "u6Lo8A1T7w",
+                                "type": "menu",
+                                "values": {
+                                    "containerPadding": "25px 10px 30px",
+                                    "anchor": "",
+                                    "menu": {
+                                        "items": [
+                                            {
+                                                "key": "1606923979328",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "STORY"
+                                            },
+                                            {
+                                                "key": "1606924033905",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "",
+                                                        "target": "_self"
+                                                    }
+                                                },
+                                                "text": "NEWS"
+                                            }
+                                        ]
+                                    },
+                                    "fontFamily": {
+                                        "label": "Montserrat",
+                                        "value": "'Montserrat',sans-serif",
+                                        "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "14px",
+                                    "textColor": "#444444",
+                                    "linkColor": "#0068A5",
+                                    "align": "center",
+                                    "layout": "horizontal",
+                                    "separator": "",
+                                    "padding": "5px 15px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_menu_2",
+                                        "htmlClassNames": "u_content_menu"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_3",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "#ffffff",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_1",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "hideMobile": false,
+                    "noStackMobile": false
+                }
+            },
+            {
+                "id": "C8EnVUeeAV",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "MgeG3WmR7x",
+                        "contents": [
+                            {
+                                "id": "rPWHnutzx-",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "100px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_7",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            },
+                            {
+                                "id": "c6huNNRC6c",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_1",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px;\"><span style=\"font-size: 36px; line-height: 50.4px;\"><strong>ENJOY YOUR FOOD</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "Hp6d7Os72l",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#ffffff",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_13",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: center;\">Speciality of the house discover our tasty meals</p>"
+                                }
+                            },
+                            {
+                                "id": "C-sGr4AkaU",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "100px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_38",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_17",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/banner.png",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false,
+                        "width": 1000,
+                        "height": 512
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_14",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "O5GiS0osqK",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "38qbtuFRpR",
+                        "contents": [
+                            {
+                                "id": "dWsRss1Ad8",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "50px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_11",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_7",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "#ffffff",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_5",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "hideMobile": false,
+                    "noStackMobile": false
+                }
+            },
+            {
+                "id": "jV2hQpU1Id",
+                "cells": [
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "n5Paw5EymW",
+                        "contents": [
+                            {
+                                "id": "Jp9yb7ttpi",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/story-left.png",
+                                        "width": 334,
+                                        "height": 417
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_33",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_68",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "U5MmbqaUGo",
+                        "contents": [
+                            {
+                                "id": "_pTH7OD1bo",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/our-story-icon.png",
+                                        "width": 50,
+                                        "height": 47
+                                    },
+                                    "textAlign": "left",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_34",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "gER0bjd7lk",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": false,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true,
+                                        "body": false
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_38",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "text": "<p style=\"line-height: 140%; text-align: left; font-size: 14px;\"><span style=\"font-size: 30px; line-height: 42px;\"><strong>OUR STORY</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "C_RVD3Xyhh",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_37",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: left;\">We love restaurants as much as you do. That's why we've been helping them fill tables since 1999. Welcome to our restaurant.</p>"
+                                }
+                            },
+                            {
+                                "id": "R9oE_GpZKg",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#b3a28e",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": false,
+                                        "width": "50%"
+                                    },
+                                    "textAlign": "left",
+                                    "lineHeight": "100%",
+                                    "padding": "10px",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderLeftWidth": "1px",
+                                        "borderLeftStyle": "solid",
+                                        "borderRightWidth": "1px",
+                                        "borderRightStyle": "solid",
+                                        "borderBottomWidth": "1px",
+                                        "borderBottomStyle": "solid"
+                                    },
+                                    "borderRadius": "0px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_10",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong><span style=\"font-size: 14px; line-height: 14px;\">ABOUT US</span></strong>",
+                                    "calculatedWidth": 128,
+                                    "calculatedHeight": 34
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "10px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_69",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_45",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "IVwGlhVn2l",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "beVZcbi325",
+                        "contents": [
+                            {
+                                "id": "gZIXajUB_W",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "50px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_40",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_74",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_47",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "KC0NEcuHwa",
+                "cells": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "Gy8VQxhsbA",
+                        "contents": [
+                            {
+                                "id": "9qIbgfNmqH",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/product-1.jpeg",
+                                        "width": 172,
+                                        "height": 278
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_35",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#181818",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_70",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "h9uZit-vwB",
+                        "contents": [
+                            {
+                                "id": "P8GFPuz65f",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/business-lunch-icon.png",
+                                        "width": 58,
+                                        "height": 58
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_37",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "PO8nzRvOGQ",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_32",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "BUSINESS LUNCH"
+                                }
+                            },
+                            {
+                                "id": "9BriRh9t6U",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px 0px 4px",
+                                    "anchor": "",
+                                    "headingType": "h1",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "22px",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_23",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>$8.50</strong>"
+                                }
+                            },
+                            {
+                                "id": "qrDZhCtuGT",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_41",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">SALAD, CARROTS,</span></p>\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">CHEESE, SOUP, MUSSELS,</span></p>\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">SAUCE</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#181818",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_71",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "EWgguGhHwC",
+                        "contents": [
+                            {
+                                "id": "5y8TnadziG",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/product-2.jpeg",
+                                        "width": 172,
+                                        "height": 278
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_36",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#181818",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_72",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "jGOM1RWIfn",
+                        "contents": [
+                            {
+                                "id": "RwSdCvL5DZ",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/special-diss-icon.png",
+                                        "width": 58,
+                                        "height": 58
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_38",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "typWnIJBGo",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_24",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "BUSINESS LUNCH"
+                                }
+                            },
+                            {
+                                "id": "upVtqvtnag",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px 0px 4px",
+                                    "anchor": "",
+                                    "headingType": "h1",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "22px",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_25",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>$8.50</strong>"
+                                }
+                            },
+                            {
+                                "id": "_9R22352Wq",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#ebe6dc",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_40",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">SALAD, CARROTS,</span></p>\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">CHEESE, SOUP, MUSSELS,</span></p>\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 12px; line-height: 16.8px;\">SAUCE</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#181818",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_73",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_46",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "ZgH6jZn7gv",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "a9ZnvK1PwG",
+                        "contents": [
+                            {
+                                "id": "oEODXn5sCn",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "50px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_41",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            },
+                            {
+                                "id": "R_lieHcJp_",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/menu-icon.png",
+                                        "width": 68,
+                                        "height": 37
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_39",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "zbCJhvxDH6",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": false,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true,
+                                        "body": false
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_42",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px; text-align: center;\"><span style=\"font-size: 30px; line-height: 42px;\"><strong>OUR MENU</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "-HhSuO9aDq",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_47",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_75",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_48",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "D0OfWXyA1l",
+                "cells": [
+                    1,
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "Qj2dPRmZOt",
+                        "contents": [
+                            {
+                                "id": "W3lJRaPWsb",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_26",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>STARTERS</strong>"
+                                }
+                            },
+                            {
+                                "id": "4xLwsOEGKC",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "0px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_43",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "vQsBBRHVvx",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_48",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">DADAR GULUNG&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "Mf3mcUYXm3",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_50",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px;\"><span style=\"font-size: 10px; line-height: 14px;\"><span style=\"line-height: 14px; font-size: 10px;\">AYAM PANGGANG&nbsp; &nbsp;</span><strong><span style=\"line-height: 14px; font-size: 10px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$11.00</span></strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "xaD565Ti4Q",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_52",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">SEMUR JENGKOL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$14.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "KQFiiQ_7Jo",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_54",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">PETAI CABE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_76",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "ge0ifhi1jN",
+                        "contents": [
+                            {
+                                "id": "dcCWmcARes",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_29",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>STARTERS</strong>"
+                                }
+                            },
+                            {
+                                "id": "2_ICNXf_Cv",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "0px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_44",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "iLPVlICf1r",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_49",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">DADAR GULUNG&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "30clf5o5As",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_51",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px;\"><span style=\"font-size: 10px; line-height: 14px;\"><span style=\"line-height: 14px; font-size: 10px;\">AYAM PANGGANG&nbsp; &nbsp;</span><strong><span style=\"line-height: 14px; font-size: 10px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$11.00</span></strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "KtZkML4IqF",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_53",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">SEMUR JENGKOL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$14.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "iLxkLw2FZo",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_55",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">PETAI CABE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_77",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "D8IQtCZ0an",
+                        "contents": [
+                            {
+                                "id": "kjEzweA4o1",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_28",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>STARTERS</strong>"
+                                }
+                            },
+                            {
+                                "id": "RKvjZy_jDH",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "0px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_42",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "HNx4shbe83",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_43",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">DADAR GULUNG&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "BsyPLE5w2P",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_47",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px;\"><span style=\"font-size: 10px; line-height: 14px;\"><span style=\"line-height: 14px; font-size: 10px;\">AYAM PANGGANG&nbsp; &nbsp;</span><strong><span style=\"line-height: 14px; font-size: 10px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$11.00</span></strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "-C5Eb8WrBh",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 10px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_46",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">SEMUR JENGKOL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$14.00</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "QGch57tUJi",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "anchor": "",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_45",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 10px; line-height: 14px;\">PETAI CABE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>$11.00</strong></span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_78",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_49",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "sSJKxh3wvx",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "UubS4-a7aY",
+                        "contents": [
+                            {
+                                "id": "81QO2uFsQM",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "50px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_46",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            },
+                            {
+                                "id": "FiIe27S4VR",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/menu-icon.png",
+                                        "width": 68,
+                                        "height": 37
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_40",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "Io0O9cNmhm",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": false,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true,
+                                        "body": false
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_56",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "text": "<p style=\"line-height: 140%; font-size: 14px; text-align: center;\"><span style=\"font-size: 30px; line-height: 42px;\"><strong>OUR SERVICES</strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "MRA-I93dk4",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_45",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_79",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_50",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "q5McHWuGcx",
+                "cells": [
+                    1,
+                    1,
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "B0kSz7iADo",
+                        "contents": [
+                            {
+                                "id": "oV9ZpDs5eo",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/breakfast-icon.png",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_41",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "ov4liVMWHN",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "15px 0px 0px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_30",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>BREAKFAST</strong>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_80",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "pwFj9a--vD",
+                        "contents": [
+                            {
+                                "id": "mZXlaAnogW",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/lunch-icon.png",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_42",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "kAximVtK-U",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "15px 0px 0px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_31",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>LUNCH</strong>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_81",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aXXkDupbML",
+                        "contents": [
+                            {
+                                "id": "pczJDjWmRT",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://wpautomail.com/wp-content/uploads/template/restaurant/dinner-icon.png",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_43",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "id": "WRRcljfyyH",
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "15px 0px 0px",
+                                    "anchor": "",
+                                    "headingType": "h4",
+                                    "fontFamily": {
+                                        "label": "Arial",
+                                        "value": "arial,helvetica,sans-serif"
+                                    },
+                                    "fontSize": "13px",
+                                    "color": "#443e39",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_27",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong>DINNER</strong>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_82",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_51",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "FVZagyWvqA",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "Sp-dFWpbhV",
+                        "contents": [
+                            {
+                                "id": "ffVlkSbPH_",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dotted",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "50px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_37",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_67",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_44",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "id": "GJnkS8_HdS",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "YB0JZICIkJ",
+                        "contents": [
+                            {
+                                "id": "44Es-TV06p",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_10",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 14px; line-height: 19.6px; font-family: Montserrat, sans-serif;\"><strong><span style=\"line-height: 19.6px; font-size: 14px;\">FOLLOW&nbsp; US&nbsp; ON</span></strong></span></p>"
+                                }
+                            },
+                            {
+                                "id": "ibG-TL925z",
+                                "type": "social",
+                                "values": {
+                                    "containerPadding": "10px 0px 20px",
+                                    "anchor": "",
+                                    "icons": {
+                                        "iconType": "circle-white",
+                                        "icons": [
+                                            {
+                                                "url": "https://facebook.com/",
+                                                "name": "Facebook"
+                                            },
+                                            {
+                                                "url": "https://instagram.com/",
+                                                "name": "Instagram"
+                                            },
+                                            {
+                                                "url": "https://twitter.com/",
+                                                "name": "Twitter"
+                                            },
+                                            {
+                                                "name": "RSS",
+                                                "url": "https://rss.com/"
+                                            }
+                                        ],
+                                        "editor": {
+                                            "data": {
+                                                "showDefaultIcons": true,
+                                                "showDefaultOptions": true,
+                                                "customIcons": [],
+                                                "customOptions": []
+                                            }
+                                        }
+                                    },
+                                    "align": "center",
+                                    "spacing": 10,
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_social_2",
+                                        "htmlClassNames": "u_content_social"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_14",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": "#181818"
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#181818",
+                    "columnsBackgroundColor": "#000000",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_11",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "hideMobile": false,
+                    "noStackMobile": false
+                }
+            },
+            {
+                "id": "A7GKzh8Nc4",
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "id": "K8ltey2MSm",
+                        "contents": [
+                            {
+                                "id": "CswJuyhH77",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_5",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "hideMobile": false
+                                }
+                            }
+                        ],
+                        "values": {
+                            "_meta": {
+                                "htmlID": "u_column_15",
+                                "htmlClassNames": "u_column"
+                            },
+                            "border": {},
+                            "padding": "0px",
+                            "backgroundColor": ""
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "anchor": "",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_12",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "hideMobile": false,
+                    "noStackMobile": false
+                }
+            }
+        ],
+        "values": {
+            "popupPosition": "center",
+            "popupWidth": "600px",
+            "popupHeight": "auto",
+            "borderRadius": "10px",
+            "contentAlign": "center",
+            "contentVerticalAlign": "center",
+            "contentWidth": "600px",
+            "fontFamily": {
+                "label": "Montserrat",
+                "value": "'Montserrat',sans-serif",
+                "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+                "defaultFont": true
+            },
+            "textColor": "#000000",
+            "popupBackgroundColor": "#FFFFFF",
+            "popupBackgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": false,
+                "center": true,
+                "cover": true
+            },
+            "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+            "popupCloseButton_position": "top-right",
+            "popupCloseButton_backgroundColor": "#DDDDDD",
+            "popupCloseButton_iconColor": "#000000",
+            "popupCloseButton_borderRadius": "0px",
+            "popupCloseButton_margin": "0px",
+            "popupCloseButton_action": {
+                "name": "close_popup",
+                "attrs": {
+                    "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+                }
+            },
+            "backgroundColor": "#ffffff",
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": false,
+                "center": true,
+                "cover": false
+            },
+            "preheaderText": "",
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0000ee",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true
+            },
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    },
+    "schemaVersion": 8
+}
