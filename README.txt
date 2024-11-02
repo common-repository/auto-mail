@@ -4,7 +4,7 @@ Contributors: darell
 Tags: abandoned cart, cart abandonment, coupon, email marketing automation, woocommerce, newsletter, email marketing, optin forms, lead generation, marketing automation, popup, popup maker, popup form
 Requires at least: 4.0
 Tested up to: 6.6.2
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=vwYbSmPtUWI
 <li>Use forms with your funnel builder and automate your form submission</li>
 <li>Manage your subscribers and subscriber lists in WordPress</li>
 <li>Manage your customer relationships, build your email lists</li>
-<li>Send emails from 3rd services provider like Amazon SES, SendGrid or any SMTP services provider</li>
+<li>Send the emails from 3rd services provider like Amazon SES, SendGrid or any SMTP services provider</li>
 <li>Pre-built and customizable email and subscription form templates</li>
 </ul>
 

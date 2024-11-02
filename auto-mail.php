@@ -3,7 +3,7 @@
  * Plugin Name: Auto Mail
  * Plugin URI: https://wpautomail.com
  * Description: Auto Mail - Abandoned Cart Recovery, Newsletter Builder & Marketing Automation for WooCommerce.
- * Version: 1.2.4
+ * Version: 1.2.5
  * Author: wphobby
  * Author URI: https://wpautomail.com/pricing/
  *
@@ -26,7 +26,7 @@ if ( ! defined( 'AUTO_MAIL_URL' ) ) {
 }
 
 if ( ! defined( 'AUTO_MAIL_VERSION' ) ) {
-    define( 'AUTO_MAIL_VERSION', '1.2.4' );
+    define( 'AUTO_MAIL_VERSION', '1.2.5' );
 }
 
 // Plugin Root File.
